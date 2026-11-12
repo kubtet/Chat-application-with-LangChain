@@ -1,2 +1,6 @@
 .env
 .ipynb_checkpoints/The_OpenAI_API-checkpoint.ipynb
+.ipynb_checkpoints/Chat_prompt_templates-checkpoint.ipynb
+.ipynb_checkpoints/Few_shot_prompting-checkpoint.ipynb
+.ipynb_checkpoints/Prompt_templates-checkpoint.ipynb
+.ipynb_checkpoints/Model_IO-checkpoint.ipynb
